@@ -1,0 +1,30 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=========== RESTART: C:/Users/oduli/OneDrive/Desktop/code/ch1ex03.py ===========
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 0.25
+0.375
+0.46875
+0.498046875
+0.49999237060546875
+0.4999999998835847
+0.5
+0.5
+0.5
+0.5
+0.5
+
+=========== RESTART: C:/Users/oduli/OneDrive/Desktop/code/ch1ex03.py ===========
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 0.26
+0.38480000000000003
+0.47345792000000003
+0.49859103597854726
+0.4999960296407725
+0.4999999999684725
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994

@@ -1,0 +1,21 @@
+go to kitchen
+open cupboard
+pick up peanut butter
+pick up jelly 
+pick up bread
+go to table
+put peanut butter jelly and bread on the table
+go to silverware drawer
+pick up butter knife
+go back to table
+take 2 slices of bread
+open peanut butter jar 
+scoop peanut butter with butter knife
+spread peanut butter on one side of one slice of bread
+open jelly jar
+scoop jelly with butter knife 
+spread jelly on one side of one slice of bread
+put down knife 
+pick up one slice of bread
+put slice of bread on other slice of bread
+eat 

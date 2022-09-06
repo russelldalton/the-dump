@@ -1,0 +1,8 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+======= RESTART: C:/Users/oduli/OneDrive/Desktop/code/odulio_program1.py =======
+hello world
+Jobe Odulio
+CIS 110 Program 1
+Thu Sep  1 15:15:36 2022
