@@ -1,0 +1,27 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================= RESTART: C:\Users\22619\odulio_program2.py =================
+this program calculates the time it takes for a photo taken from curiosity to reach nasa
+What is the distance in miles? 34000000
+The time it takes for curiosity to reach nasa is 182.79569892473117 seconds
+Jobe Odulio
+CIS 110 Program 2
+Mon Sep 12 12:17:03 2022
+>>> 
+================= RESTART: C:\Users\22619\odulio_program2.py =================
+this program calculates the time it takes for a photo taken from curiosity to reach nasa
+What is the distance in miles? 249000000
+The time it takes for curiosity to reach nasa is 1338.7096774193549 seconds
+Jobe Odulio
+CIS 110 Program 2
+Mon Sep 12 12:17:42 2022
+>>> 
+================= RESTART: C:\Users\22619\odulio_program2.py =================
+this program calculates the time it takes for a photo taken from curiosity to reach nasa
+What is the distance in miles? 139000000
+The time it takes for curiosity to reach nasa is 747.3118279569892 seconds
+Jobe Odulio
+CIS 110 Program 2
+Mon Sep 12 12:18:23 2022
+>>> 
