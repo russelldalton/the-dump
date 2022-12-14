@@ -16,25 +16,25 @@ def main():
     #create window
     win = GraphWin('tik tac toe', 500, 500)
     win.setCoords(0,0,300,300)
-    win.setBackground('yellow')
+    win.setBackground('blue')
     message = Text(Point(300, 500),'')
     message.draw(win)
     message.setText('tic-tac-toe')
-
-    boarder1 = Line(Point(200, 100),Point(200,400))
+    # boarders
+    boarder1 = Line(Point(10, 100),Point(280,100))
     boarder1.setWidth(10)
     boarder1.draw(win)
 
-    boarder2 = Line(Point(300, 100),Point(300,400))
+    boarder2 = Line(Point(10, 190),Point(280,190))
     boarder2.setWidth(10)
     boarder2.draw(win)
  
 
-    boarder3 = Line(Point(100, 200),Point(400,200))
+    boarder3 = Line(Point(100, 10),Point(100,300))
     boarder3.setWidth(10)
     boarder3.draw(win)
 
-    boarder4 = Line(Point(100, 300),Point(400,300))
+    boarder4 = Line(Point(190, 10),Point(190,300))
     boarder4.setWidth(10)
     boarder4.draw(win)
 

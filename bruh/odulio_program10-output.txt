@@ -1,0 +1,11 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program10.py ===========
+deposited 500.0 into checking, current balance is  500.0
+deposited 100.0 into saving, current balance is  100.0
+withdrew 600.0 from checking, current balance is -100.0
+withdrew 100.0 from savings, current balance is 0.0
+Jobe Odulio
+CIS 110 Program 
+Mon Nov 21 13:02:15 2022

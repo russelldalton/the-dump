@@ -1,0 +1,16 @@
+program start
+n = games
+user input "how many games?"
+get games 
+for each game
+    pick number from range 1-69
+    list 6 values 
+    if values do not = each other
+        pick number from range 69-1
+    if value = number range 26-1
+    value  powerball
+print powerball
+program end
+    
+
+    

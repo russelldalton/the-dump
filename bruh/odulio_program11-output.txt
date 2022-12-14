@@ -1,0 +1,37 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program11.py ===========
+player hand three of hearts
+Dealer hand three of hearts
+player hand four of diamonds
+Dealer hand queen of clubs
+player hand four of clubs
+Dealer hand ace of clubs
+player hand five of diamonds
+Dealer hand six of spades
+player hand three of diamonds
+Dealer hand four of spades
+0
+hit(1) or stand(2)?: 1
+new card six of hearts
+Jobe Odulio
+CIS 110 Program 
+Mon Dec  5 13:07:39 2022
+main()
+player hand nine of diamonds
+Dealer hand ten of hearts
+player hand two of diamonds
+Dealer hand six of spades
+player hand four of hearts
+Dealer hand jack of spades
+player hand four of diamonds
+Dealer hand seven of diamonds
+player hand six of hearts
+Dealer hand two of diamonds
+0
+hit(1) or stand(2)?: 2
+done
+Jobe Odulio
+CIS 110 Program 
+Mon Dec  5 13:07:49 2022

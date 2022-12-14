@@ -1,0 +1,36 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=============== RESTART: C:\Users\22619\Desktop\bruh\ch10ex11.py ===============
+testing card classes
+how many cards20
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\ch10ex11.py", line 39, in <module>
+    main()
+  File "C:\Users\22619\Desktop\bruh\ch10ex11.py", line 35, in main
+    suit = "dchs"| randrange(4)
+TypeError: unsupported operand type(s) for |: 'str' and 'int'
+
+=============== RESTART: C:\Users\22619\Desktop\bruh\ch10ex11.py ===============
+testing card classes
+how many cards20
+ace of spades counts 1
+seven of hearts counts 7
+two of diamonds counts 2
+nine of spades counts 9
+queen of spades counts 10
+seven of hearts counts 7
+four of hearts counts 4
+three of clubs counts 3
+four of diamonds counts 4
+four of clubs counts 4
+five of hearts counts 5
+three of spades counts 3
+queen of hearts counts 10
+jack of hearts counts 10
+ten of diamonds counts 10
+nine of diamonds counts 9
+four of diamonds counts 4
+six of clubs counts 6
+eight of hearts counts 8
+nine of diamonds counts 9

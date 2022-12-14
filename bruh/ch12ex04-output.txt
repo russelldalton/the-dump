@@ -1,0 +1,40 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=============== RESTART: C:\Users\22619\Desktop\bruh\ch12ex04.py ===============
+
+all attendees:
+Frodo Baggins Bag End Ltd ME frodo@bagend.com
+Samwise Gamgee Sam's Lawn & Garden ME coneys@samgardens.com
+Merry Brandybuck Rohan Stable Supplies ME merry@rohanstable.com
+Pippin Took Gondor Guardians ME pippin@gondor.com
+Gandalf Big Sky Pyrotechnics FL gandalf@bigskypyrotechnics.com
+Aragorn Strider's Tracking Services MT aragorn@sts.org
+Legolas Lorien Archery Outfitters CA legolas@lorienarcheryoutfitters.com
+Gimli Mines and More ID gimli@minesandmore.com
+Boromir See It Done Stewards TX boromir@stewards.org
+Saruman Orthonic Stone Works WA white@isengard.com
+
+attendees from maine:
+
+
+=============== RESTART: C:\Users\22619\Desktop\bruh\ch12ex04.py ===============
+
+all attendees:
+Frodo Baggins Bag End Ltd ME frodo@bagend.com
+Samwise Gamgee Sam's Lawn & Garden ME coneys@samgardens.com
+Merry Brandybuck Rohan Stable Supplies ME merry@rohanstable.com
+Pippin Took Gondor Guardians ME pippin@gondor.com
+Gandalf Big Sky Pyrotechnics FL gandalf@bigskypyrotechnics.com
+Aragorn Strider's Tracking Services MT aragorn@sts.org
+Legolas Lorien Archery Outfitters CA legolas@lorienarcheryoutfitters.com
+Gimli Mines and More ID gimli@minesandmore.com
+Boromir See It Done Stewards TX boromir@stewards.org
+Saruman Orthonic Stone Works WA white@isengard.com
+
+attendees from maine:
+
+Frodo Baggins Bag End Ltd ME frodo@bagend.com
+Samwise Gamgee Sam's Lawn & Garden ME coneys@samgardens.com
+Merry Brandybuck Rohan Stable Supplies ME merry@rohanstable.com
+Pippin Took Gondor Guardians ME pippin@gondor.com

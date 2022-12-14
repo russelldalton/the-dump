@@ -1,0 +1,21 @@
+program start
+import deck class
+import card class
+player deck
+	hand = empty list 
+	make cards 
+	call deck 
+	hand.append(deck)
+dealer deck
+	hand = empty list 
+	make cards 
+	call deck 
+	hand.append(deck)
+
+sim 5 games
+	print player deck
+	print dealer deck
+	prompt user to hit or stand
+	if hit add one card
+	if stand finish
+program stop

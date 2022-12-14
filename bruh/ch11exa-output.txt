@@ -1,0 +1,79 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================ RESTART: C:\Users\22619\Desktop\bruh\ch11exa.py ===============
+ 1 Jackson,Troy
+ 2 Stewart,Trey
+ 3 Farrin,Bradlee
+ 4 Davis,Paul
+ 5 Dill,James
+ 6 Moore,Marianne
+ 7 Luchini,Louis
+ 8 Rosen,Kimberley
+ 9 Baldacci,Joseph
+10 Guerin,Stacey
+11 Curry,Chip
+12 Miramant,David
+13 Maxmin,Chloe
+14 Hickman,Craig
+15 Pouliot,Matthew
+16 Cyrway,Scott
+17 Black,Russell
+18 Keim,Lisa
+19 Bennett,Richard
+20 Claxton,Ned
+21 Libby,Nathan
+22 Timberlake,Jeffrey
+23 Vitelli,Eloise
+24 Daughtry,Matthea
+25 Breen,Catherine
+26 Diamond,Bill
+27 Chipman,Benjamin
+28 Sanborn,Heather
+29 Carney,Anne
+30 Brenner,Stacy
+31 Bailey,Donna
+32 Deschambault,Susan 
+33 Woodsome,David
+34 Rafferty,Joseph
+35 Lawrence,Mark
+
+31 Bailey,Donna
+ 9 Baldacci,Joseph
+19 Bennett,Richard
+17 Black,Russell
+25 Breen,Catherine
+30 Brenner,Stacy
+29 Carney,Anne
+27 Chipman,Benjamin
+20 Claxton,Ned
+11 Curry,Chip
+16 Cyrway,Scott
+24 Daughtry,Matthea
+ 4 Davis,Paul
+32 Deschambault,Susan 
+26 Diamond,Bill
+ 5 Dill,James
+ 3 Farrin,Bradlee
+10 Guerin,Stacey
+14 Hickman,Craig
+ 1 Jackson,Troy
+18 Keim,Lisa
+35 Lawrence,Mark
+21 Libby,Nathan
+ 7 Luchini,Louis
+13 Maxmin,Chloe
+12 Miramant,David
+ 6 Moore,Marianne
+15 Pouliot,Matthew
+34 Rafferty,Joseph
+ 8 Rosen,Kimberley
+28 Sanborn,Heather
+ 2 Stewart,Trey
+22 Timberlake,Jeffrey
+23 Vitelli,Eloise
+33 Woodsome,David
+
+which district do you want to see? 2
+ 2 Stewart,Trey Trey.Stewart@legislature.maine.gov
+

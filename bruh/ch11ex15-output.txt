@@ -1,0 +1,24 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=============== RESTART: C:\Users\22619\Desktop\bruh\ch11ex15.py ===============
+how many cards5
+ace of diamonds 1
+three of spades 3
+six of diamonds 6
+ace of spades 1
+nine of diamonds 9
+main()
+how many cards5
+six of clubs 6
+five of spades 5
+two of spades 2
+nine of spades 9
+six of spades 6
+main()
+how many cards5
+six of diamonds 6
+five of clubs 5
+jack of diamonds 10
+nine of hearts 9
+eight of hearts 8

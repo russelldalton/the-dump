@@ -1,0 +1,406 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+[0, 0, 0, 0, 0, 7]
+[0, 0, 0, 0, 0, 24]
+[0, 0, 0, 0, 0, 6]
+[0, 0, 0, 0, 0, 59]
+[0, 0, 0, 0, 0, 10]
+[0, 0, 0, 0, 0, 44]
+[0, 0, 0, 0, 0, 33]
+[0, 0, 0, 0, 0, 15]
+[0, 0, 0, 0, 0, 62]
+[0, 0, 0, 0, 0, 32]
+[0, 0, 0, 0, 0, 32]
+[0, 0, 0, 0, 0, 6]
+[0, 0, 0, 0, 0, 31]
+[0, 0, 0, 0, 0, 47]
+[0, 0, 0, 0, 0, 33]
+[0, 0, 0, 0, 0, 23]
+[0, 0, 0, 0, 0, 50]
+[0, 0, 0, 0, 0, 43]
+[0, 0, 0, 0, 0, 17]
+[0, 0, 0, 0, 0, 34]
+[0, 0, 0, 0, 0, 35]
+[0, 0, 0, 0, 0, 49]
+[0, 0, 0, 0, 0, 67]
+[0, 0, 0, 0, 0, 21]
+[0, 0, 0, 0, 0, 31]
+[0, 0, 0, 0, 0, 56]
+[0, 0, 0, 0, 0, 30]
+[0, 0, 0, 0, 0, 33]
+[0, 0, 0, 0, 0, 57]
+[0, 0, 0, 0, 0, 37]
+[0, 0, 0, 0, 0, 8]
+[0, 0, 0, 0, 0, 29]
+[0, 0, 0, 0, 0, 57]
+[0, 0, 0, 0, 0, 24]
+[0, 0, 0, 0, 0, 58]
+[0, 0, 0, 0, 0, 6]
+[0, 0, 0, 0, 0, 2]
+[0, 0, 0, 0, 0, 43]
+[0, 0, 0, 0, 0, 19]
+[0, 0, 0, 0, 0, 22]
+[0, 0, 0, 0, 0, 5]
+[0, 0, 0, 0, 0, 14]
+[0, 0, 0, 0, 0, 38]
+[0, 0, 0, 0, 0, 40]
+[0, 0, 0, 0, 0, 12]
+[0, 0, 0, 0, 0, 68]
+[0, 0, 0, 0, 0, 35]
+[0, 0, 0, 0, 0, 1]
+[0, 0, 0, 0, 0, 23]
+[0, 0, 0, 0, 0, 13]
+Jobe Odulio
+CIS 110 Program 
+Thu Nov 10 12:29:48 2022
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+powerball:  59
+powerball:  10
+powerball:  44
+powerball:  33
+powerball:  15
+powerball:  62
+powerball:  32
+powerball:  32
+powerball:  6
+powerball:  31
+powerball:  47
+powerball:  33
+powerball:  23
+powerball:  50
+powerball:  43
+powerball:  17
+powerball:  34
+powerball:  35
+powerball:  49
+powerball:  67
+powerball:  21
+powerball:  31
+powerball:  56
+powerball:  30
+powerball:  33
+powerball:  57
+powerball:  37
+powerball:  8
+powerball:  29
+powerball:  57
+powerball:  24
+powerball:  58
+powerball:  6
+powerball:  2
+powerball:  43
+powerball:  19
+powerball:  22
+powerball:  5
+powerball:  14
+powerball:  38
+powerball:  40
+powerball:  12
+powerball:  68
+powerball:  35
+powerball:  1
+powerball:  23
+powerball:  13
+Jobe Odulio
+CIS 110 Program 
+Thu Nov 10 12:36:58 2022
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 73, in <module>
+    if __name__=="__main__": main()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 68, in main
+    simNGames(n)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 35, in simNGames
+    wins[5]= winPowerBall()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 47, in winPowerBall
+    return drawForPoint()
+TypeError: drawForPoint() missing 1 required positional argument: 'point'
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 73, in <module>
+    if __name__=="__main__": main()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 68, in main
+    simNGames(n)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 36, in simNGames
+    print( 'powerball: ', wins[n])
+IndexError: list index out of range
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 72, in <module>
+    if __name__=="__main__": main()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 67, in main
+    simNGames(n)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 35, in simNGames
+    wins[5]= winPowerBall()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 46, in winPowerBall
+    return drawForPoint()
+TypeError: drawForPoint() missing 1 required positional argument: 'point'
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 72, in <module>
+    if __name__=="__main__": main()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 67, in main
+    simNGames(n)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 35, in simNGames
+    wins[5]= winPowerBall()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 46, in winPowerBall
+    return drawForPoint()
+TypeError: drawForPoint() missing 1 required positional argument: 'point'
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 72, in <module>
+    if __name__=="__main__": main()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 67, in main
+    simNGames(n)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 35, in simNGames
+    wins[5]= winPowerBall()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 46, in winPowerBall
+    return drawForPoint(point)
+NameError: name 'point' is not defined
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 72, in <module>
+    if __name__=="__main__": main()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 67, in main
+    simNGames(n)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 35, in simNGames
+    wins[5]= winPowerBall()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 46, in winPowerBall
+    return drawForPoint(ball)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 48, in drawForPoint
+    draw = draw()
+UnboundLocalError: local variable 'draw' referenced before assignment
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 72, in <module>
+    if __name__=="__main__": main()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 67, in main
+    simNGames(n)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 35, in simNGames
+    wins[5]= winPowerBall()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 46, in winPowerBall
+    return drawForPoint()
+TypeError: drawForPoint() missing 1 required positional argument: 'point'
+>>> 
+[DEBUG ON]
+>>> 
+[DEBUG OFF]
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 85, in <module>
+    if __name__=="__main__": main()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 80, in main
+    simNGames(n)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 55, in simNGames
+    wins[5]= winPowerBall()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 40, in winPowerBall
+    return drawForPoint()
+TypeError: drawForPoint() missing 1 required positional argument: 'point'
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 85, in <module>
+    if __name__=="__main__": main()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 80, in main
+    simNGames(n)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 55, in simNGames
+    wins[5]= winPowerBall()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 40, in winPowerBall
+    return drawForPoint()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 25, in drawForPoint
+    draw = draw()
+UnboundLocalError: local variable 'draw' referenced before assignment
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+Traceback (most recent call last):
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 85, in <module>
+    if __name__=="__main__": main()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 80, in main
+    simNGames(n)
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 56, in simNGames
+    wins[5]= winPowerBall()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 41, in winPowerBall
+    return drawForPoint()
+  File "C:\Users\22619\Desktop\bruh\odulio_program9.py", line 26, in drawForPoint
+    draw = draw()
+UnboundLocalError: local variable 'draw' referenced before assignment
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+powerball:  65
+powerball:  13
+powerball:  57
+powerball:  15
+powerball:  52
+powerball:  13
+powerball:  67
+powerball:  46
+powerball:  5
+powerball:  26
+powerball:  54
+powerball:  50
+powerball:  32
+powerball:  21
+powerball:  65
+powerball:  9
+powerball:  29
+powerball:  55
+powerball:  24
+powerball:  21
+powerball:  41
+powerball:  24
+powerball:  57
+powerball:  30
+powerball:  49
+powerball:  47
+powerball:  2
+powerball:  26
+powerball:  17
+powerball:  31
+powerball:  43
+powerball:  49
+powerball:  60
+powerball:  59
+powerball:  50
+powerball:  20
+powerball:  4
+powerball:  17
+powerball:  52
+powerball:  51
+powerball:  54
+powerball:  45
+powerball:  58
+powerball:  18
+powerball:  3
+powerball:  10
+powerball:  35
+Jobe Odulio
+CIS 110 Program 
+Thu Nov 10 12:57:22 2022
+>>> 
+========== RESTART: C:\Users\22619\Desktop\bruh\odulio_program9.py ==========
+its gambling time
+number of draws: 50
+powerball:  7
+powerball:  24
+powerball:  6
+powerball:  21
+powerball:  12
+powerball:  15
+powerball:  5
+powerball:  22
+powerball:  16
+powerball:  6
+powerball:  5
+powerball:  26
+powerball:  9
+powerball:  6
+powerball:  4
+powerball:  12
+powerball:  5
+powerball:  17
+powerball:  22
+powerball:  16
+powerball:  21
+powerball:  5
+powerball:  13
+powerball:  18
+powerball:  23
+powerball:  18
+powerball:  23
+powerball:  13
+powerball:  17
+powerball:  16
+powerball:  24
+powerball:  22
+powerball:  5
+powerball:  14
+powerball:  8
+powerball:  24
+powerball:  15
+powerball:  7
+powerball:  23
+powerball:  13
+powerball:  21
+powerball:  16
+powerball:  3
+powerball:  10
+powerball:  25
+powerball:  21
+powerball:  4
+powerball:  22
+powerball:  21
+powerball:  1
+Jobe Odulio
+CIS 110 Program 
+Thu Nov 10 12:57:54 2022
+>>> 

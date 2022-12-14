@@ -1,0 +1,21 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================ RESTART: C:\Users\22619\Desktop\bruh\final02.py ===============
+enter a word sad
+['SAD', 'sad', 'd']
+enter a word but
+['BUT', 'but', 't']
+enter a word lucky
+['LUCKY', 'lucky', 'y']
+enter a word harry
+['HARRY', 'harry', 'y']
+enter a word the
+['THE', 'the', 'e']
+enter a word clown
+['CLOWN', 'clown', 'n']
+enter a word bruh
+['BRUH', 'bruh', 'h']
+Jobe Odulio
+CIS 110 Program 
+Wed Dec 14 11:37:33 2022

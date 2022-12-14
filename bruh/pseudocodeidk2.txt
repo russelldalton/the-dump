@@ -1,0 +1,20 @@
+program start
+class bank account
+deposit:
+    account+amount
+
+withdraw:
+    account-amount
+
+
+return balance
+
+return self
+n= amount
+checking = bank account(checking)
+saving = bank account(saving)
+print checking.deposit(n)
+print saving.deposit(n)
+print checking.withdraw(n)
+print saving.withdraw(n)
+program end

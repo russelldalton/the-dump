@@ -1,0 +1,21 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================ RESTART: C:\Users\22619\Desktop\bruh\ch9ex07.py ===============
+its gambling time
+number of games: 10
+
+the player wins 4
+ the probability of winning is 40.00%
+main()
+its gambling time
+number of games: 100
+
+the player wins 38
+ the probability of winning is 38.00%
+main()
+its gambling time
+number of games: 1000
+
+the player wins 490
+ the probability of winning is 49.00%

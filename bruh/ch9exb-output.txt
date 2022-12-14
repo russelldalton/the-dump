@@ -1,0 +1,26 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================ RESTART: C:\Users\22619\Desktop\bruh\ch9exb.py ================
+seeds
+number of values to print: 20
+0.80563
+0.79406
+0.02943
+0.17466
+0.00223
+0.66388
+0.07705
+0.26852
+0.11640
+0.22903
+0.48742
+0.18610
+0.02427
+0.91357
+0.37735
+0.64676
+0.36996
+0.85400
+0.76679
+0.44020
