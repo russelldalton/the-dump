@@ -1,0 +1,23 @@
+Python 3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================ RESTART: C:\Users\22619\Desktop\bruh\final03.py ===============
+enter number between 1 and 50: 30
+higher
+enter number between 1 and 50: 40
+higher
+enter number between 1 and 50: 50
+lower
+enter number between 1 and 50: 45
+lower
+enter number between 1 and 50: 44
+lower
+enter number between 1 and 50: 43
+lower
+enter number between 1 and 50: 42
+lower
+enter number between 1 and 50: 41
+you win the number was 41
+Jobe Odulio
+CIS 110 Program 
+Thu Dec 15 12:29:07 2022

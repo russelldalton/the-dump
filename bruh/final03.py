@@ -1,4 +1,4 @@
-from random import randrange
+import random
 import time
 """
 program: 
@@ -9,38 +9,46 @@ notes:
 """
 
 
+
+
+
+def getinput():
+    return int(input("enter number between 1 and 50: "))
+
+def simgame(x):
+    secret = random.randrange(0,50)
+    
+    
+    
+   
+    while x != secret:
+        if x<secret:
+            print ('higher')
+            x = getinput()
+        elif x>secret:
+            print ('lower')
+            x = getinput()
+        else:
+            break
+    print('you win the number was', x)
 def main():
-    n = getinputs()
+    n = getinput()
     simgame(n)
-
-def getinputs():
-    return eval(input("enter number between 1 and 50: "))
-
-def simgame(input):
-    secret = range(51)
-    
-    if input == secret:
-        print ("you win the number was", input)
-    elif input < secret:
-        print ("higher")
-        getinputs(input)
-    elif input > secret:
-        print ("lower")
-        getinputs(input)
-            
-        
-        
-        
-    
-    
-    
-            
-
-        
-        
-
 
     print ('Jobe Odulio')
     print ('CIS 110 Program ')
     print (time.asctime(time.localtime(time.time())))
-main()
+main()        
+        
+        
+        
+    
+    
+    
+            
+
+        
+        
+
+
+    
