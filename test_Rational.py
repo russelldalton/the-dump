@@ -41,12 +41,31 @@ class RationalTest(unittest.TestCase):
             r3 = r1 * 2
     def testadd(self):
         r1 = Rational(1,4)
-        r2 = Rational(3,5)
+        r2 = Rational(3,4)
+        
+        
+        
+        
+        
         r3 = r1 + r2 
-        self.assertEqual(str(r3), '17/20')
+        self.assertEqual(str(r3), '4/4')
         
         with self.assertRaises(TypeError):
-            r3 = r1 +
+            r3 = r1 + 4
+
+    def testsub(self):
+        r1 = Rational(3,5)
+        r2 = Rational(2,5)
+        r3 = r1 -r2 
+
+        self.assertEqual(str(r3)'1/5')
+        with self.assertRaises(TypeError):
+            r3 = r1 - 5
+
+    def testdiv(self):
+        r1 = Rational(2,3)
+        r2 = Rational(3,5)
+        
     # TODO -- add tests for the other methods in Rational.py.
     # there should be a unique test defined for each method
         
