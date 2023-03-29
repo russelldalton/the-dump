@@ -13,12 +13,14 @@ class Player():
         about each individual player (an instance of the class) """
 
     def __init__(self, first, last, position ):
+        #instance variables of Player class
         self.first = first
         self.last = last
         self.position = position
 
     def __str__(self):
-        return self.first, self.last, self.position
+        #string function that returns the string
+        return f'{self.first}, {self.last}, {self.position}'
         
 
     ''' think about what other methods you might need.  add them here '''
@@ -26,7 +28,9 @@ class Player():
 class Team():
     """ """
     def __init__(self, teamName):
+        #instances of team class
         self.teamName = teamName
+        #container for player
         self.player = []
         
 
@@ -41,13 +45,15 @@ class Team():
 
     def addPlayer(self, first, last, position):
         """ Create an instance of your Player class and add it to the team container """
-        if isinstance(first, Player):
-            self.player.append(first)
-        if isinstance(last, Player):
-            self.player.append(last)
-        if isinstance(position, Player):
-            self.player.append(position)
+        #if isinstance(first, Player):
+            #self.player.append(first)
+        #if isinstance(last, Player):
+            #self.player.append(last)
+        #if isinstance(position, Player):
+            #self.player.append(position)
+        #adds player from player class
         
+        self.player.append(Player(first,last,position))
         
 
         
@@ -57,20 +63,24 @@ class Team():
    
            
         
-   # def removePlayer(self, first, last, position):
+    def removePlayer(self, first, last, position):
         """ You are given just a player's first & last name.  Find the specified
         player in the team container and remove that instance """
-       # if Team.removePlayer == True:
-          #  self.player = False
-           # return False
+         #removes player
+        if  isinstance(first,Player) and isinstance(last,Player) and isinstance(position, Player):
+            self.player = False
+            return self.player
         
             
     def listPlayers(self):
         """ List all the players on the team.  Your output should be nicely formatted
             and the team name should be printed as a header"""
+        #prints team name
         print(self.teamName)
-        for player in self.player:
-            player.__str__()
+        #print(self.player)
+        #prints a list of players 
+        for playerlist in self.player:
+            print(playerlist)
         
         
         
@@ -106,7 +116,7 @@ def main():
     patriots.listPlayers()
 
     # now we remove one of the players
-    #patriots.removePlayer("JJ", "Taylor", "bruh")
+    patriots.removePlayer("JJ", "Taylor", "bruh")
 
     print()
     patriots.listPlayers()
